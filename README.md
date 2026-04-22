@@ -1,7 +1,4 @@
-AmirHossein Emadi
-currently student
-Intrested In security
-<!---
-matiiccc6666/matiiccc6666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Amirhosein Emadi
+Chemistry student in IUT
+interested in Statistics, Electrical Engineering and Chemistry Data analysis
+currently studying bash and python is in my queue.
